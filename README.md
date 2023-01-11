@@ -22,8 +22,7 @@
 
 #
 
-<p> Hi 👋, I am Shihab Al Ratul 😃 from Bangladesh 🇧🇩. A passionate programmer 🧑‍💻  and learner who is fascinated with technology.💻 
-</p>
+<h3>Hi 👋, I am Shihab Al Ratul 😃 from Bangladesh 🇧🇩. A passionate programmer 🧑‍💻  and learner who is fascinated with technology.💻 </h3>
 
 <br />
 
