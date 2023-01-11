@@ -14,15 +14,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=shihabalratul&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" />
 
-
-
-<br />
 <br />
 
 
 #
 
-### Hi 👋, I am Shihab Al Ratul 😃 from Bangladesh 🇧🇩. A passionate programmer 🧑‍💻  and learner who is fascinated with technology.💻 
+ Hi 👋, I am Shihab Al Ratul 😃 from Bangladesh 🇧🇩. A passionate programmer 🧑‍💻  and learner who is fascinated with technology.💻 
 
 <br />
 
