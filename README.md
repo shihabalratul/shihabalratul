@@ -12,16 +12,11 @@
 
 ![](https://raw.githubusercontent.com/shihabalratul/cf-stats/main/output/max_rating.svg)
 
-<img src="https://komarev.com/ghpvc/?username=shihabalratul&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" />
-
-<br />
-
+<img src="https://komarev.com/ghpvc/?username=shihabalratul&label=Profile%20views&color=0e75b6&style=flat" alt="Shihab Al Ratul" />
 
 #
 
 ### Hi 👋, I am Shihab Al Ratul 😃 from Bangladesh 🇧🇩. A passionate programmer 🧑‍💻  and learner who is fascinated with technology.💻 </p>
-
-<br />
 
 #### 🚩<b>Problem Solving</b>
 ![](https://raw.githubusercontent.com/shihabalratul/cf-stats/main/output/light_card.svg)
