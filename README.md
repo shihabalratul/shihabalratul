@@ -1,6 +1,4 @@
-# shihabalratul
-# shihabalratul
-# shihabalratul
+### 👋Hey, I'm Shihab Al Ratul.
 
 ![Ratul's GitHub stats](https://github-readme-stats.vercel.app/api?username=shihabalratul&show_icons=true)
 
