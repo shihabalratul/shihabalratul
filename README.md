@@ -5,21 +5,22 @@
 <a href="https://www.linkedin.com/in/shihabalratul/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
 </a>
+<br />
 
+<br />
+<!-- <img src= "https://raw.githubusercontent.com/shihabalratul/cf-stats/main/output/max_rating.svg"> -->
 
-</br>
-<a href="https://codeforces.com/profile/error_01">
-   <img src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg" />
-</a>
-</br>
+![](https://raw.githubusercontent.com/shihabalratul/cf-stats/main/output/max_rating.svg)
+<br />
+
 <img src="https://komarev.com/ghpvc/?username=shihabalratul&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" />
 
 
-</br>
-</br>
+<br />
+<br />
 
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=wweverma1&theme=1)
 
-#
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihabalratul&layout=compact" alt="shihabalratul" />
 </br
 >
