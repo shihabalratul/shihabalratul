@@ -15,8 +15,10 @@
 <img src="https://komarev.com/ghpvc/?username=shihabalratul&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" />
 
 
+
 <br />
 <br />
+
 
 #
 
@@ -27,6 +29,10 @@
 
 #### 🚩<b>Problem Solving</b>
 ![](https://raw.githubusercontent.com/shihabalratul/cf-stats/main/output/light_card.svg)
+
+<br/>
+
+![LeetCode Stats](https://leetcode.card.workers.dev/shihabalratul?theme=default&font=baloo&extension=null)
 
 <br/>
 <br/>
