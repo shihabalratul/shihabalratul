@@ -10,9 +10,7 @@
 <br />
 <!-- <img src= "https://raw.githubusercontent.com/shihabalratul/cf-stats/main/output/max_rating.svg"> -->
 
-![](https://raw.githubusercontent.com/shihabalratul/cf-stats/main/output/max_rating.svg)
-
-<img src="https://komarev.com/ghpvc/?username=shihabalratul&label=Profile%20views&color=0e75b6&style=flat" alt="Shihab Al Ratul" />
+![](https://raw.githubusercontent.com/shihabalratul/cf-stats/main/output/max_rating.svg) <img src="https://komarev.com/ghpvc/?username=shihabalratul&label=Profile%20views&color=0e75b6&style=flat" alt="Shihab Al Ratul" />
 
 #
 
