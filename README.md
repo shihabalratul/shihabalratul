@@ -23,14 +23,14 @@
 <p><b>Last 3 years : </b> Scale to atleast 1000 employee.</p>
 
 
-#### 🚩<b>Problem Solving</b>
+<!-- #### 🚩<b>Problem Solving</b>
 ![](https://raw.githubusercontent.com/shihabalratul/cf-stats/main/output/light_card.svg)
 
 <br/>
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/shihabalratul?theme=default&font=baloo&extension=null)
 
-<br/>
+<br/> -->
 <br/>
 
 ### <b>Tools I Use:</b> 
