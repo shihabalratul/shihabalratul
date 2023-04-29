@@ -17,7 +17,7 @@
 ### Hi 👋, I am Shihab Al Ratul 😃 from Bangladesh 🇧🇩. A passionate programmer 🧑‍💻  and learner who is fascinated with technology.💻 </p>
 
 ## Target for next 10 year.
-<b>First 2 years: </b> <p>Find a good software engeneering job and gain real life experience.</p> <br />
+<b>First 2 years: </b> <p>Find a good software engeneering job and gain real life experience.</p>
 <b>After 2 years: </b> <p>Start a bussiness beside doing job.</p> 
 <b>Next 3 years : </b> <p>Scale the business to atleast have 300 employee.</p>
 <b>Last 3 years : </b> <p>Scale to atleast 1000 employee.</p>
