@@ -23,16 +23,6 @@
 <p><b>Last 3 years : </b> Scale to atleast 1000 employee.</p>
  -->
 
-#### 🚩<b>Problem Solving</b>
-![](https://raw.githubusercontent.com/shihabalratul/cf-stats/main/output/light_card.svg)
-
-<br/>
-
-![LeetCode Stats](https://leetcode.card.workers.dev/shihabalratul?theme=default&font=baloo&extension=null)
-
-<br/>
-<br/>
-
 ### <b>Tools I Use:</b> 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,vscode,github,git )](https://skillicons.dev)
 
@@ -42,6 +32,17 @@
 [![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,mongodb,firebase,heroku,html,bootstrap)](https://skillicons.dev)
 
 #
+
+
+#### 🚩<b>Problem Solving</b>
+![](https://raw.githubusercontent.com/shihabalratul/cf-stats/main/output/light_card.svg)
+
+<br/>
+
+![LeetCode Stats](https://leetcode.card.workers.dev/shihabalratul?theme=default&font=baloo&extension=null)
+
+<br/>
+<br/>
 
 ### <b>| Github Activities ⚡️</b>
 <br/>
