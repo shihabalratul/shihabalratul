@@ -28,7 +28,7 @@
 
 <br />
 
-### <b>Tools Used Before:</b>
+### <b>Tools Comfortable With:</b>
 [![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,mongodb,firebase,heroku,html,bootstrap)](https://skillicons.dev)
 
 #
