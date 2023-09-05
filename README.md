@@ -33,7 +33,7 @@
 
 #
 
-## 2023 Goal
+## 🚩2023 Goal
 <li>Learn django deeply</li>
 <li>Solve 200 leetcode problems.</li>
 <li>Prepare for interview</li>
