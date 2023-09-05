@@ -33,6 +33,12 @@
 
 #
 
+## 2023 Goal
+<li>Learn django deeply</li>
+<li>Solve 200 leetcode problems.</li>
+<li>Prepare for interview</li>
+<li>Try for job.</li>
+
 
 #### 🚩<b>Problem Solving</b>
 ![](https://raw.githubusercontent.com/shihabalratul/cf-stats/main/output/light_card.svg)
