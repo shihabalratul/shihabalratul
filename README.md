@@ -32,12 +32,12 @@
 [![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,mongodb,firebase,heroku,html,bootstrap)](https://skillicons.dev)
 
 #
-
+<!--
 ## 🚩2023 Goals to achive
 <li>Learn django deeply</li>
 <li>Solve 200 leetcode problems.</li>
 <li>Prepare for interview</li>
-<li>Try for job.</li>
+<li>Try for job.</li>-->
 
 
 #### 🚩<b>Problem Solving</b>
